@@ -2,4 +2,4 @@ Wrote about the weird parts of JS — https://hackernoon.com/the-weird-parts-of-
 
 Working on open source Nothing Fancy Websites — https://github.com/WinnersWebs/Nothing-Fancy-Websites
 
-Streaming business and tech things — https://www.twitch.tv/winnerswebs
+Occasionally streaming business and tech things — https://www.twitch.tv/winnerswebs
